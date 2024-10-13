@@ -11,10 +11,3 @@ https://neteasecloudmusicapi.js.org/#/
 链接: https://pan.baidu.com/s/1ntjHpnnTyOYFmzjqTE8ojg 提取码: vfyu
 
 
-使用vant组件库
-
-
-Vue组合式开发app
-
-
-axios获取（封装axios）
