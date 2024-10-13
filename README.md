@@ -6,7 +6,10 @@
 
 调用网易云api（网址如下）
 https://neteasecloudmusicapi.js.org/#/
-通过git获取网易云api的后台服务器
+
+首先需要通过git获取网易云api的后台服务器（这里github上作者已经不再维护在下面附上百度网盘提取链接）
+链接: https://pan.baidu.com/s/1ntjHpnnTyOYFmzjqTE8ojg 提取码: vfyu
+
 
 使用vant组件库
 
